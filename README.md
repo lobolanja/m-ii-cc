@@ -1,2 +1,2 @@
 # m-ii-cc
-Proyect for the subject Cloud Computing
+Project for the subject Cloud Computing
